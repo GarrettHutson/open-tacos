@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   We're building the first <i>free</i> and <i>open source</i> rock climbing catalog.  </br>The project is currently in MVP stage.<br>
-  <b>We'd love to hear your feedback.</b>  Chat with the dev team on <a href="https://discord.gg/fY9DbRav8h">Discord</a>.
+  <b>We'd love to hear your feedback.</b>  Chat with the dev team on <a href="https://discord.gg/ptpnWWNkJx">Discord</a>.
 </p>
 
 <h2 align="center">
@@ -181,6 +181,15 @@ Thanks goes to these wonderful people:
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/evannoronha"><img src="https://avatars.githubusercontent.com/u/6803522?v=4?s=100" width="100px;" alt="Evan Noronha"/><br /><sub><b>Evan Noronha</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/issues?q=author%3Aevannoronha" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://tedgeving.com"><img src="https://avatars.githubusercontent.com/u/24211?v=4?s=100" width="100px;" alt="ted"/><br /><sub><b>ted</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/commits?author=tedgeving" title="Code">💻</a> <a href="#ideas-tedgeving" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ParthParolekar"><img src="https://avatars.githubusercontent.com/u/69164301?v=4?s=100" width="100px;" alt="Parth Parolekar"/><br /><sub><b>Parth Parolekar</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/commits?author=ParthParolekar" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/theonlyjunaid"><img src="https://avatars.githubusercontent.com/u/95287515?v=4?s=100" width="100px;" alt="Junaid"/><br /><sub><b>Junaid</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/commits?author=theonlyjunaid" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kunal00000"><img src="https://avatars.githubusercontent.com/u/92316166?v=4?s=100" width="100px;" alt="KunalVerma2468"/><br /><sub><b>KunalVerma2468</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/commits?author=kunal00000" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://scotthoecker.com"><img src="https://avatars.githubusercontent.com/u/69652149?v=4?s=100" width="100px;" alt="Scott Hoecker"/><br /><sub><b>Scott Hoecker</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/commits?author=Scott2bReal" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vcbenj"><img src="https://avatars.githubusercontent.com/u/46982128?v=4?s=100" width="100px;" alt="vcbenj"/><br /><sub><b>vcbenj</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/commits?author=vcbenj" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ramzyraz"><img src="https://avatars.githubusercontent.com/u/52238175?v=4?s=100" width="100px;" alt="Ramez Salman"/><br /><sub><b>Ramez Salman</b></sub></a><br /><a href="https://github.com/OpenBeta/open-tacos/commits?author=ramzyraz" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/diericx"><img src="https://avatars.githubusercontent.com/u/17539534?v=4?s=100" width="100px;" alt="Zac Holland"/><br /><sub><b>Zac Holland</b></sub></a><br /><a href="#ideas-diericx" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/OpenBeta/open-tacos/commits?author=diericx" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

@@ -167,12 +167,13 @@ export const checkUsername = (uid: string): boolean => {
 }
 
 /**
- * Website URL validation.
- * If no protocol is specified, it will default to https,
- * if it is specified, it must be https.
+ * Website URL validation and correction.
+ * Websites are validated with the URL function.
+ * Upon the first failure, a prefix of https:// will be added and the function will be called again.
+ * On the second failure null is returned.
  *
  * @param url
- * @returns true if valid website URL
+ * @returns a potentially altered valid url if immediately possible, null otherwise
  */
 export const checkWebsiteUrl = (url: string | null | undefined, allowRetest?: boolean): string | null => {
   if (typeof url !== 'string') return null
@@ -249,3 +250,13 @@ export const getMapHref = ({ lat, lng }: { lat: number, lng: number}): string =>
 export const sortClimbsByLeftRightIndex = (climbs: ClimbType[]): ClimbType[] => climbs.slice().sort(compareFn)
 
 const compareFn = (a: ClimbType, b: ClimbType): number => (a.metadata.leftRightIndex - b.metadata.leftRightIndex)
+
+/**
+ * Remove __typename from climb disciplines object.  See https://github.com/apollographql/apollo-client/issues/1913
+ * @param discplines
+ * @returns disciplines object without __typename if exists
+ */
+export const removeTypenameFromDisciplines = (discplines: ClimbDisciplineRecord): ClimbDisciplineRecord => {
+  const omitTypename = (key: string, value: boolean): boolean | undefined => (key === '__typename' ? undefined : value)
+  return JSON.parse(JSON.stringify(discplines), omitTypename)
+}

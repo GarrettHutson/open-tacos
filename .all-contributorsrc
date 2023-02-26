@@ -349,6 +349,70 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "ParthParolekar",
+      "name": "Parth Parolekar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69164301?v=4",
+      "profile": "https://github.com/ParthParolekar",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "theonlyjunaid",
+      "name": "Junaid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95287515?v=4",
+      "profile": "https://github.com/theonlyjunaid",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kunal00000",
+      "name": "KunalVerma2468",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92316166?v=4",
+      "profile": "https://github.com/kunal00000",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Scott2bReal",
+      "name": "Scott Hoecker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69652149?v=4",
+      "profile": "https://scotthoecker.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vcbenj",
+      "name": "vcbenj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46982128?v=4",
+      "profile": "https://github.com/vcbenj",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ramzyraz",
+      "name": "Ramez Salman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52238175?v=4",
+      "profile": "https://github.com/ramzyraz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "diericx",
+      "name": "Zac Holland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17539534?v=4",
+      "profile": "https://github.com/diericx",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
